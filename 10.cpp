@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
     int num,count = 0;
-    cout<<"Enter a positive integer: ";
+    cout<<"Enter a positive integer:
     cin>>num;
 
     if(num <= 1){
